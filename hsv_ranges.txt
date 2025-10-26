@@ -1,0 +1,4 @@
+skin_lower_HSV: [171, 79, 201]
+skin_upper_HSV: [177, 112, 237]
+mole_lower_HSV: [0, 79, 165]
+mole_upper_HSV: [2, 167, 214]
