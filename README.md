@@ -32,4 +32,4 @@ b) *On macOS/Linux:*
 When you start the program, a file-open dialog appears. Choose the mole image you want to analyze.
 
 6. *View results*:
-The program automatically performs color, symmetry, and border analysis. Processed images and results are displayed on screen.
+The program automatically performs color and symmetry analysis and classifies the mole as benign or malignant. Processed images and results are displayed on screen.
