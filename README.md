@@ -9,16 +9,21 @@ How to run the program
    cd melanoma-detection
 
 2. *(Optional) *Create and activate a virtual environment*:
+    ```bash
     python -m venv venv
+    ```bash
     venv\Scripts\activate     # On Windows
     *or*:
+    ```bash
     source venv/bin/activate  # On macOS/Linux
 
 3. *Install required libraries*:
+    ```bash
     pip install -r requirements.txt
 
 4. *Run the program*:
-python main.py
+    ```bash
+    python main.py
 
 5. *Select an image to analyze*:
 When you start the program, a file-open dialog appears. Choose the mole image you want to analyze.
