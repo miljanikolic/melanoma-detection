@@ -14,7 +14,11 @@ a) *On Windows:*
     python -m venv venv
     venv\Scripts\activate
 
-
+2. *(Optional)* *Create and activate a virtual environment:*
+b) *On macOS/Linux:*
+    ```bash
+    python -m venv venv
+    source venv/bin/activate
 
 3. *Install required libraries*:
     ```bash
