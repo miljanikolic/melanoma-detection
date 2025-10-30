@@ -8,14 +8,18 @@ How to run the program
    git clone https://github.com/miljanikolic/melanoma-detection.git
    cd melanoma-detection
 
-2. *(Optional) *Create and activate a virtual environment*:
+2. *(Optional)* *Create and activate a virtual environment:*
+a) **On Windows:**
+    ```bash
+   python -m venv venv
+   venv\Scripts\activate
+
+b)**On macOS/Linux:**              
     ```bash
     python -m venv venv
-    ```bash
-    venv\Scripts\activate     # On Windows
-    *or*:
-    ```bash
-    source venv/bin/activate  # On macOS/Linux
+    source venv/bin/activate
+
+
 
 3. *Install required libraries*:
     ```bash
