@@ -11,7 +11,7 @@ How to run the program
 2. *(Optional) *Create and activate a virtual environment*:
     python -m venv venv
     venv\Scripts\activate     # On Windows
-    # or
+    *or*:
     source venv/bin/activate  # On macOS/Linux
 
 3. *Install required libraries*:
