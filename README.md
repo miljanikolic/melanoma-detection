@@ -9,13 +9,14 @@ How to run the program
    cd melanoma-detection
 
 2. *(Optional)* *Create and activate a virtual environment:*
+
 a) **On Windows:**
     ```bash
    python -m venv venv
    venv\Scripts\activate
 
 b)**On macOS/Linux:**              
-    ```bash
+     ```bash
     python -m venv venv
     source venv/bin/activate
 
