@@ -15,11 +15,6 @@ a) **On Windows:**
    python -m venv venv
    venv\Scripts\activate
 
-b)**On macOS/Linux:**              
-     ```bash
-    python -m venv venv
-    source venv/bin/activate
-
 
 
 3. *Install required libraries*:
